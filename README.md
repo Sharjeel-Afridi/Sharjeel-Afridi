@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in my first year of B.Tech from Z.H.C.E.T AMU and learning React <br>I'm looking to make projects using React to improve my skills.<br>I also want to contribute to open-source projects.<br>
+I'm currently in my first year of B.Tech from Z.H.C.E.T AMU and learning React <br>I'm looking to make projects using React to improve my skills.
 
 ## 🌐 Socials:
 
