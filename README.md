@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently in my first year of B.Tech from Z.H.C.E.T AMU and learning React <br>I'm looking to make projects using React to improve my skills.
+🌟 Welcome to my GitHub! Myself Sharjeel Afridi, immersing myself in the world of web development, particularly in the MERN stack.
+📚 Catch me learning in public on X (@sharjeelafridi_), sharing insights, and documenting my journey.
+💡I'm dedicated to building projects that people can use and benefit from.
+
 
 ## 🌐 Socials:
 
