@@ -1,7 +1,7 @@
 # 💫 About Me:
-🌟 Welcome to my GitHub! Myself Sharjeel Afridi, immersing myself in the world of web development, particularly in the MERN stack.
-📚 Catch me learning in public on X (@sharjeelafridi_), sharing insights, and documenting my journey.
-💡I'm dedicated to building projects that people can use and benefit from.
+🌟 Welcome to my GitHub! Myself Sharjeel Afridi, immersing myself in the world of web development, particularly in the MERN stack.<br/>
+📚 Catch me learning in public on X (@sharjeelafridi_), sharing insights, and documenting my journey.<br/>
+💡I'm dedicated to building projects that people can use and benefit from.<br/>
 
 
 ## 🌐 Socials:
