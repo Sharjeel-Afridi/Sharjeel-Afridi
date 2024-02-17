@@ -3,7 +3,6 @@
 📚 Catch me learning in public on X (@sharjeelafridi_), sharing insights, and documenting my journey.<br/>
 💡I'm dedicated to building projects that people can use and benefit from.<br/>
 
-
 ## 🌐 Socials:
 
 
