@@ -1,5 +1,6 @@
 # @sharjeelafridi_
-Waiting to be replaced by **AI** <br> Learning in public on X (@sharjeelafridi_), documenting my journey (*irregularly*).<br>💡Goal is to build projects that people can use and benefit from.
+**AI** *terrified* me so much, that I just had to become an **Automobile Engineer**. Totally not because I didn't get into CS. Nope, not at all. 🙃
+<br> Learning in public on X (@sharjeelafridi_), documenting my journey (*irregularly*).<br>💡Goal is to build projects that people can use and benefit from.
 
 ###
 
